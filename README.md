@@ -8,7 +8,7 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 
 ## 🚀 Live Dashboard
 **Explore the live dashboard here.**  
-*(Add the dashboard URL link once available)*
+*(https://www.novypro.com/create_project/business-insights-360-61)*
 
 ---
 
